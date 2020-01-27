@@ -27,3 +27,13 @@ h2 {
 p {
     font-size: 50px;
 }
+
+.section1 {
+    background: linear-gradient(45deg, orange, yellow, lightgreen, olive);
+    color: darkblue;
+}
+
+.section2 {
+    background: linear-gradient(315deg, skyblue, darkblue, gray, brown);
+    color: lightgoldenrodyellow;
+}
